@@ -47,7 +47,7 @@ const Footer: React.FC = () => {
             {/* Copyright */}
             <div className="text-center text-gray-400 text-sm">
               <p>&copy; {currentYear} ECOS del HIELO. Todos los derechos reservados.</p>
-              <p className="mt-1">El Calafate, Santa Cruz, Argentina.</p>
+              <p className="mt-1">Argentina.</p>
             </div>
         </div>
       </div>
