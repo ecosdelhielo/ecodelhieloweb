@@ -9,7 +9,7 @@ export const excursions: Excursion[] = [
     longDescription: "La excursión comienza con el traslado desde tu hotel en El Calafate hacia el Parque Nacional Los Glaciares. Durante el viaje, realizaremos paradas en miradores estratégicos para que puedas capturar las mejores vistas panorámicas. Una vez en el destino, tendrás tiempo libre para recorrer a tu propio ritmo las extensas pasarelas que se despliegan frente al imponente Glaciar Perito Moreno, permitiéndote apreciar su majestuosidad desde múltiples ángulos y, con suerte, presenciar alguno de sus famosos desprendimientos. Es un día completo para sumergirse en uno de los paisajes más espectaculares de la Patagonia.",
     difficulty: Difficulty.Baja,
     images: [
-        "https://raw.githubusercontent.com/ecosdelhielo/ecosdelhielo/cerro_huiliche/img/excursiones/pasarelas-glaciar-perito-moreno/moreno.jpg", 
+        "https://raw.githubusercontent.com/ecosdelhielo/ecosdelhielo/cerro_huiliche/img/excursiones/pasarelas-glaciar-perito-moreno/moreno1.jpg", 
         "https://raw.githubusercontent.com/ecosdelhielo/ecosdelhielo/cerro_huiliche/img/excursiones/pasarelas-glaciar-perito-moreno/glaciar-2.jpg", 
         "https://raw.githubusercontent.com/ecosdelhielo/ecosdelhielo/cerro_huiliche/img/excursiones/pasarelas-glaciar-perito-moreno/glaciar-3.jpg"
     ],
