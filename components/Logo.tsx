@@ -1,17 +1,17 @@
-import React from 'react';
+import React from "react";
 
-interface LogoProps {
+type Props = {
   className?: string;
-}
+};
 
-const Logo: React.FC<LogoProps> = ({ className }) => {
+export default function Logo({ className = "" }: Props) {
   return (
     <img
-      src="https://raw.githubusercontent.com/ecosdelhielo/ecosdelhielo/main/img/logo/logo-ecos-color-1.png"
+      src="/logoecos1.png"
       alt="Logo de ECOS del HIELO"
       className={className}
     />
   );
-};
+}
 
 export default Logo;
