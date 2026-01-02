@@ -1,10 +1,6 @@
 import React from "react";
 
-type Props = {
-  className?: string;
-};
-
-export default function Logo({ className = "" }: Props) {
+export default function Logo({ className = "" }: { className?: string }) {
   return (
     <img
       src="/logoecos1.png"
@@ -13,5 +9,3 @@ export default function Logo({ className = "" }: Props) {
     />
   );
 }
-
-export default Logo;
