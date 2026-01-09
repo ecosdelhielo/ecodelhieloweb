@@ -424,11 +424,11 @@ export const excursions: Excursion[] = [
         name: "Temporada Alta 2025/26",
         startDate: "2025-12-31",
         endDate: "2026-04-30",
-        prices: [0, 189000, 270000],
+        prices: [0, 161000, 230000],
         transferPrices: [0, 50000, 50000],
         optionalPrices: {
           "box-lunch-gourmet": [0, 40000, 40000],
-          "sala-vip": [0, 230000, 230000],
+          "sala-vip": [0, 190000, 190000],
           "descenso-pasarelas": [0, 85000, 85000]
         }
       }
@@ -620,15 +620,15 @@ export const excursions: Excursion[] = [
         name: "Temporada 2025/26 B", 
         startDate: "2025-10-11", 
         endDate: "2025-12-31", 
-        prices: [590000],
+        prices: [490000],
         transferPrices: [64000]
       },
       { 
         name: "Temporada 2025/26 C", 
         startDate: "2026-01-01", 
         endDate: "2026-04-30", 
-        prices: [640000],
-        transferPrices: [80000]
+        prices: [490000],
+        transferPrices: [64000]
       }
     ],
     transfer: 'optional',
@@ -670,7 +670,7 @@ export const excursions: Excursion[] = [
         name: "Temporada 2025/26", 
         startDate: "2025-09-01", 
         endDate: "2026-04-30", 
-        prices: [360000],
+        prices: [395000],
         transferPrices: [40000]
       }
     ],
@@ -731,8 +731,8 @@ export const excursions: Excursion[] = [
         endDate: "2026-04-30",
         prices: [0, 0, 0],
         optionalPrices: {
-          "participante-kayak": [0, 0, 240000],
-          "acompanante-sin-kayak": [0, 120000, 120000]
+          "participante-kayak": [0, 0, 300000],
+          "acompanante-sin-kayak": [0, 150000, 150000]
         }
       }
     ],
@@ -781,8 +781,8 @@ export const excursions: Excursion[] = [
        { 
         name: "Temporada 2025/26", 
         startDate: "2025-01-01",
-        endDate: "2026-12-31", 
-        prices: [39000],
+        endDate: "2026-04-31", 
+        prices: [50000],
       },
     ],
     transfer: 'none',
@@ -860,7 +860,7 @@ export const excursions: Excursion[] = [
         name: "Temporada 2025 B", 
         startDate: "2025-10-01",
         endDate: "2026-04-30",
-        prices: [160000, 200000], 
+        prices: [60000, 120000], 
         transferPrices: [64000, 64000] 
       }
     ],
@@ -921,9 +921,9 @@ export const excursions: Excursion[] = [
         name: "Temporada 2025/26",
         startDate: "2025-08-11",
         endDate: "2026-04-30",
-        prices: [0, 92000, 115000],
+        prices: [0, 108000, 135000],
         optionalPrices: {
-          "descenso-tirolesa": [0, 0, 40000],
+          "descenso-tirolesa": [0, 0, 45000],
           "descenso-trekking": [0, 0, 0]
         }
       }
@@ -973,9 +973,9 @@ export const excursions: Excursion[] = [
        { ageMin: 12, ageMax: 100, category: 'Adulto' },
     ],
     seasons: [
-      { name: "Temporada Baja 2025", startDate: "2025-08-12", endDate: "2025-08-31", prices: [86400, 108000] },
+      { name: "Temporada Baja 2025", startDate: "2025-08-12", endDate: "2025-08-31", prices: [100000, 130000] },
       { name: "Temporada Alta 2025", startDate: "2025-09-01", endDate: "2025-10-10", prices: [86400, 108000] },
-      { name: "Temporada Alta 2025/26", startDate: "2025-10-11", endDate: "2026-04-30", prices: [86400, 108000] }
+      { name: "Temporada Alta 2025/26", startDate: "2025-10-11", endDate: "2026-04-30", prices: [100000, 130000] }
     ],
     transfer: 'included',
     requiresParkEntry: true
@@ -1014,9 +1014,9 @@ export const excursions: Excursion[] = [
         name: "Temporada 2025/26", 
         startDate: "2025-09-15", 
         endDate: "2026-04-30", 
-        prices: [0, 84000, 132000],
+        prices: [0, 98000, 154000],
         optionalPrices: {
-          "cabalgata-opcional": [0, 28800, 28800]
+          "cabalgata-opcional": [0, 34000, 34000]
         }
       }
     ],
@@ -1359,7 +1359,7 @@ export const excursions: Excursion[] = [
         name: "Temporada Alta 2025/26", 
         startDate: "2025-08-12", 
         endDate: "2026-04-30", 
-        prices: [168000, 210000]
+        prices: [200000, 250000]
       }
     ],
     transfer: 'included',
