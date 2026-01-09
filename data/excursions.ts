@@ -41,7 +41,7 @@ export const excursions: Excursion[] = [
         name: "Temporada 2025/26 B", 
         startDate: "2025-10-01", 
         endDate: "2026-04-30", 
-        prices: [0, 70000, 70000, 80000, 80000], 
+        prices: [0, 65000, 65000, 75000, 75000], 
         optionalPrices: { 
           "safari-nautico": [0, 0, 51200, 51200, 64000] 
         }
@@ -73,7 +73,7 @@ export const excursions: Excursion[] = [
       { name: "Temporada 2025 A", startDate: "2025-08-13", endDate: "2025-09-30", prices: [256000, 320000], transferPrices: [64000, 64000] },
       { name: "Temporada 2025 B (1-10 Oct)", startDate: "2025-10-01", endDate: "2025-10-10", prices: [320000, 400000], transferPrices: [64000, 64000] },
       { name: "Temporada 2025 B (11-31 Oct)", startDate: "2025-10-11", endDate: "2025-10-31", prices: [256000, 320000], transferPrices: [64000, 64000] },
-      { name: "Temporada 2025 B (Nov-Abr)", startDate: "2025-11-01", endDate: "2026-04-30", prices: [320000, 400000], transferPrices: [64000, 64000] }
+      { name: "Temporada 2025 B (Nov-Abr)", startDate: "2025-11-01", endDate: "2026-04-30", prices: [256000, 320000], transferPrices: [64000, 64000] }
     ],
     transfer: 'optional',
     requiresParkEntry: true,
